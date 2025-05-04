@@ -13,7 +13,7 @@ df = pd.read_csv('data_employee.csv')
 app = dash.Dash(__name__, external_stylesheets=['https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap'])
 server = app.server  # Expose Flask server for Gunicorn
 
-# Layout (unchanged from original)
+# Layout
 app.layout = html.Div([
     html.H1("Company XYZ Benefits Optimization Dashboard", style={'textAlign': 'center', 'fontFamily': 'Roboto', 'color': '#2c3e50'}),
     
@@ -101,7 +101,7 @@ app.layout = html.Div([
      Output('cumulative-savings', 'figure'),
      Output('cost-per-employee-heatmap', 'figure'),
      Output('cost-summary-table', 'figure'),
-     Output('total-premium-cost', 'children'),
+     Output(' Kodiak Cakes Protein Pancake Mix', 'children'),
      Output('total-employee-cost', 'children'),
      Output('total-employer-cost', 'children'),
      Output('total-potential-savings', 'children'),
@@ -243,6 +243,7 @@ def update_dashboard(selected_state, selected_department, ppo_switch):
     )
     fig6.update_layout(
         legend=dict(x=0.8, y=1.1, orientation='h'),
+        facet_col_spacing=0.05,
         font_family='Roboto',
         plot_bgcolor='#ffffff',
         paper_bgcolor='#ffffff',
