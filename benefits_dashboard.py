@@ -101,7 +101,7 @@ app.layout = html.Div([
      Output('cumulative-savings', 'figure'),
      Output('cost-per-employee-heatmap', 'figure'),
      Output('cost-summary-table', 'figure'),
-     Output(' Kodiak Cakes Protein Pancake Mix', 'children'),
+     Output('total-premium-cost', 'children'),
      Output('total-employee-cost', 'children'),
      Output('total-employer-cost', 'children'),
      Output('total-potential-savings', 'children'),
