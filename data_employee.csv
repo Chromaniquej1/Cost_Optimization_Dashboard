@@ -1,0 +1,1001 @@
+Job Title,Department,State,Medical Plan,Premium Cost,Employer Cost,Employee Cost
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,New York,PPO,580.11,464.088,116.022
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,Texas,PPO,443.24,354.592,88.648
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,New York,PPO,580.11,464.088,116.022
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,Washington,HMO,290.66,232.528,58.132
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HSA,243.49,194.792,48.698
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,HSA,243.49,194.792,48.698
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,HMO,303.61,242.888,60.722
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HMO,303.61,242.888,60.722
+Data Scientist,Engineering,Texas,PPO,443.24,354.592,88.648
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,New York,PPO,580.11,464.088,116.022
+Software Engineer,Engineering,Washington,PPO,443.24,354.592,88.648
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,Washington,PPO,443.24,354.592,88.648
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,Texas,PPO,443.24,354.592,88.648
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,Texas,PPO,443.24,354.592,88.648
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,Florida,PPO,443.24,354.592,88.648
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,Texas,PPO,443.24,354.592,88.648
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,HSA,243.49,194.792,48.698
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,Texas,PPO,443.24,354.592,88.648
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HMO,303.61,242.888,60.722
+Data Scientist,Data Science,Washington,PPO,443.24,354.592,88.648
+DevOps Engineer,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,Florida,PPO,443.24,354.592,88.648
+Software Engineer,Engineering,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,HMO,303.61,242.888,60.722
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HSA,243.49,194.792,48.698
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,HMO,303.61,242.888,60.722
+System Architect,IT,New York,PPO,580.11,464.088,116.022
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,Florida,PPO,443.24,354.592,88.648
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,New York,PPO,580.11,464.088,116.022
+System Architect,Engineering,Washington,PPO,443.24,354.592,88.648
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HSA,243.49,194.792,48.698
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,Florida,PPO,443.24,354.592,88.648
+System Architect,Data Science,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HSA,243.49,194.792,48.698
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HSA,243.49,194.792,48.698
+Data Scientist,Data Science,New York,PPO,580.11,464.088,116.022
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,Washington,PPO,443.24,354.592,88.648
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,Florida,PPO,443.24,354.592,88.648
+Software Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,Florida,PPO,443.24,354.592,88.648
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,Florida,PPO,443.24,354.592,88.648
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,New York,PPO,580.11,464.088,116.022
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,Texas,PPO,443.24,354.592,88.648
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,Washington,PPO,443.24,354.592,88.648
+Software Engineer,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,Washington,PPO,443.24,354.592,88.648
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,HMO,303.61,242.888,60.722
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,Texas,HMO,290.66,232.528,58.132
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,HSA,243.49,194.792,48.698
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HMO,303.61,242.888,60.722
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Data Science,New York,PPO,580.11,464.088,116.022
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,Washington,PPO,443.24,354.592,88.648
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,Washington,PPO,443.24,354.592,88.648
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,Texas,HSA,160.87,128.696,32.174
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,Texas,HSA,160.87,128.696,32.174
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,Washington,HSA,160.87,128.696,32.174
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,Washington,PPO,443.24,354.592,88.648
+Data Scientist,Engineering,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HSA,243.49,194.792,48.698
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,Texas,PPO,443.24,354.592,88.648
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HSA,243.49,194.792,48.698
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,Texas,PPO,443.24,354.592,88.648
+System Architect,Data Science,Texas,PPO,443.24,354.592,88.648
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,Texas,PPO,443.24,354.592,88.648
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,Florida,PPO,443.24,354.592,88.648
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,Texas,PPO,443.24,354.592,88.648
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,New York,HSA,239.14,191.312,47.828
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,Texas,HSA,160.87,128.696,32.174
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,HMO,303.61,242.888,60.722
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HSA,243.49,194.792,48.698
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,Washington,PPO,443.24,354.592,88.648
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HMO,303.61,242.888,60.722
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,Texas,HSA,160.87,128.696,32.174
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,Engineering,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,HMO,303.61,242.888,60.722
+Data Scientist,Data Science,California,HMO,303.61,242.888,60.722
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,New York,PPO,580.11,464.088,116.022
+Data Scientist,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,Data Science,Texas,PPO,443.24,354.592,88.648
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,Washington,PPO,443.24,354.592,88.648
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,HMO,303.61,242.888,60.722
+DevOps Engineer,Data Science,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,Washington,PPO,443.24,354.592,88.648
+Software Engineer,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,Washington,HMO,290.66,232.528,58.132
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,Texas,PPO,443.24,354.592,88.648
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,HSA,243.49,194.792,48.698
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,HMO,303.61,242.888,60.722
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,HSA,243.49,194.792,48.698
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,Florida,PPO,443.24,354.592,88.648
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,Texas,PPO,443.24,354.592,88.648
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,New York,PPO,580.11,464.088,116.022
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,Washington,PPO,443.24,354.592,88.648
+Data Scientist,IT,California,HMO,303.61,242.888,60.722
+System Architect,Engineering,California,HSA,243.49,194.792,48.698
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,New York,PPO,580.11,464.088,116.022
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,HMO,303.61,242.888,60.722
+System Architect,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,IT,California,HMO,303.61,242.888,60.722
+System Architect,Data Science,California,HMO,303.61,242.888,60.722
+DevOps Engineer,IT,California,PPO,595.81,476.648,119.162
+Software Engineer,IT,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,New York,PPO,580.11,464.088,116.022
+DevOps Engineer,Data Science,California,HMO,303.61,242.888,60.722
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,IT,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,New York,PPO,580.11,464.088,116.022
+Data Scientist,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Data Science,California,PPO,595.81,476.648,119.162
+System Architect,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+DevOps Engineer,Engineering,California,PPO,595.81,476.648,119.162
+System Architect,Data Science,California,PPO,595.81,476.648,119.162
+Data Scientist,Data Science,California,HSA,243.49,194.792,48.698
+Software Engineer,Engineering,California,PPO,595.81,476.648,119.162
+Software Engineer,Engineering,California,HMO,303.61,242.888,60.722
+System Architect,Data Science,Texas,PPO,443.24,354.592,88.648
+DevOps Engineer,IT,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Marketing,Texas,PPO,443.24,354.592,88.648
+Sales Executive,HR,Florida,HMO,290.66,232.528,58.132
+Marketing Specialist,Marketing,California,HSA,243.49,194.792,48.698
+HR Manager,Marketing,Texas,PPO,443.24,354.592,88.648
+HR Manager,Marketing,California,HMO,303.61,242.888,60.722
+Marketing Specialist,HR,Washington,HSA,160.87,128.696,32.174
+HR Manager,Sales,Texas,HMO,290.66,232.528,58.132
+Marketing Specialist,Sales,New York,HSA,239.14,191.312,47.828
+Sales Executive,Marketing,California,PPO,595.81,476.648,119.162
+Finance Analyst,Marketing,Washington,HMO,290.66,232.528,58.132
+Sales Executive,Finance,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Finance,Washington,HMO,290.66,232.528,58.132
+Marketing Specialist,HR,California,HMO,303.61,242.888,60.722
+HR Manager,Marketing,California,HSA,243.49,194.792,48.698
+HR Manager,Finance,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,HR,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Sales,New York,HMO,311.05,248.84,62.21
+HR Manager,Sales,New York,PPO,580.11,464.088,116.022
+HR Manager,Finance,Washington,HMO,290.66,232.528,58.132
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,California,HMO,303.61,242.888,60.722
+Sales Executive,Marketing,Texas,PPO,443.24,354.592,88.648
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,California,HSA,243.49,194.792,48.698
+HR Manager,Sales,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,Finance,Florida,PPO,443.24,354.592,88.648
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Sales Executive,Sales,New York,HSA,239.14,191.312,47.828
+Sales Executive,Finance,New York,HSA,239.14,191.312,47.828
+Marketing Specialist,Marketing,California,HMO,303.61,242.888,60.722
+Finance Analyst,Marketing,California,PPO,595.81,476.648,119.162
+Finance Analyst,Finance,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Sales,California,HSA,243.49,194.792,48.698
+Sales Executive,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Marketing,Florida,HSA,160.87,128.696,32.174
+Finance Analyst,Marketing,Texas,HMO,290.66,232.528,58.132
+HR Manager,Sales,California,HMO,303.61,242.888,60.722
+Marketing Specialist,Finance,California,HMO,303.61,242.888,60.722
+HR Manager,Sales,California,HSA,243.49,194.792,48.698
+Sales Executive,Marketing,California,HSA,243.49,194.792,48.698
+Sales Executive,HR,California,HMO,303.61,242.888,60.722
+HR Manager,Finance,Florida,HSA,160.87,128.696,32.174
+Finance Analyst,HR,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Finance,Texas,HSA,160.87,128.696,32.174
+Sales Executive,Sales,Florida,PPO,443.24,354.592,88.648
+Marketing Specialist,Marketing,California,HMO,303.61,242.888,60.722
+Marketing Specialist,HR,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,Texas,PPO,443.24,354.592,88.648
+HR Manager,Marketing,New York,HSA,239.14,191.312,47.828
+Finance Analyst,Marketing,California,PPO,595.81,476.648,119.162
+Finance Analyst,HR,Washington,PPO,443.24,354.592,88.648
+Marketing Specialist,Finance,Washington,HMO,290.66,232.528,58.132
+HR Manager,Marketing,California,HSA,243.49,194.792,48.698
+Sales Executive,Sales,California,PPO,595.81,476.648,119.162
+HR Manager,Finance,Washington,PPO,443.24,354.592,88.648
+Sales Executive,HR,New York,HSA,239.14,191.312,47.828
+HR Manager,HR,Florida,HMO,290.66,232.528,58.132
+Finance Analyst,Sales,California,HMO,303.61,242.888,60.722
+Sales Executive,Sales,New York,HSA,239.14,191.312,47.828
+HR Manager,Sales,Washington,HMO,290.66,232.528,58.132
+Marketing Specialist,Marketing,Texas,HSA,160.87,128.696,32.174
+Finance Analyst,HR,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,Finance,California,HSA,243.49,194.792,48.698
+Finance Analyst,Finance,Texas,HSA,160.87,128.696,32.174
+HR Manager,Marketing,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Marketing,California,HMO,303.61,242.888,60.722
+Marketing Specialist,HR,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,Texas,HSA,160.87,128.696,32.174
+HR Manager,Marketing,Texas,HSA,160.87,128.696,32.174
+Marketing Specialist,Marketing,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Sales,Texas,PPO,443.24,354.592,88.648
+HR Manager,Sales,Washington,PPO,443.24,354.592,88.648
+Finance Analyst,Finance,California,HMO,303.61,242.888,60.722
+Finance Analyst,Marketing,Texas,HMO,290.66,232.528,58.132
+Marketing Specialist,HR,New York,HSA,239.14,191.312,47.828
+Finance Analyst,Marketing,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,HR,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Sales,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Finance,California,HMO,303.61,242.888,60.722
+Sales Executive,Marketing,New York,PPO,580.11,464.088,116.022
+Marketing Specialist,Marketing,Florida,PPO,443.24,354.592,88.648
+Marketing Specialist,Finance,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,Sales,California,HMO,303.61,242.888,60.722
+HR Manager,Sales,New York,HMO,311.05,248.84,62.21
+HR Manager,Marketing,Washington,PPO,443.24,354.592,88.648
+Marketing Specialist,Marketing,California,HMO,303.61,242.888,60.722
+HR Manager,Finance,Florida,HMO,290.66,232.528,58.132
+Sales Executive,Finance,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Marketing,California,PPO,595.81,476.648,119.162
+Sales Executive,HR,New York,HMO,311.05,248.84,62.21
+HR Manager,HR,California,HMO,303.61,242.888,60.722
+Marketing Specialist,Marketing,Florida,HMO,290.66,232.528,58.132
+Finance Analyst,Marketing,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,HR,California,PPO,595.81,476.648,119.162
+HR Manager,Sales,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,Sales,Florida,HMO,290.66,232.528,58.132
+Sales Executive,Sales,New York,HMO,311.05,248.84,62.21
+Sales Executive,Marketing,Washington,HMO,290.66,232.528,58.132
+HR Manager,Finance,Texas,HMO,290.66,232.528,58.132
+Finance Analyst,HR,California,HSA,243.49,194.792,48.698
+HR Manager,HR,New York,HSA,239.14,191.312,47.828
+Finance Analyst,Sales,Texas,HSA,160.87,128.696,32.174
+Sales Executive,Finance,California,HMO,303.61,242.888,60.722
+HR Manager,Finance,California,HMO,303.61,242.888,60.722
+HR Manager,HR,California,HMO,303.61,242.888,60.722
+HR Manager,Marketing,California,HMO,303.61,242.888,60.722
+Sales Executive,Marketing,Florida,PPO,443.24,354.592,88.648
+HR Manager,Marketing,California,HMO,303.61,242.888,60.722
+Marketing Specialist,Sales,Florida,PPO,443.24,354.592,88.648
+Marketing Specialist,Finance,Washington,HMO,290.66,232.528,58.132
+Marketing Specialist,Finance,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,Marketing,Texas,HMO,290.66,232.528,58.132
+Marketing Specialist,Sales,New York,PPO,580.11,464.088,116.022
+Sales Executive,Marketing,Texas,HSA,160.87,128.696,32.174
+Finance Analyst,Finance,Florida,HSA,160.87,128.696,32.174
+Sales Executive,Marketing,California,PPO,595.81,476.648,119.162
+Finance Analyst,Finance,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Marketing,California,PPO,595.81,476.648,119.162
+Sales Executive,Finance,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Finance,Texas,PPO,443.24,354.592,88.648
+Sales Executive,HR,Florida,HSA,160.87,128.696,32.174
+HR Manager,Finance,California,HMO,303.61,242.888,60.722
+Finance Analyst,Sales,California,HMO,303.61,242.888,60.722
+Finance Analyst,Marketing,California,HSA,243.49,194.792,48.698
+HR Manager,HR,Texas,HSA,160.87,128.696,32.174
+Sales Executive,Sales,California,HMO,303.61,242.888,60.722
+Marketing Specialist,Marketing,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Finance,Washington,HSA,160.87,128.696,32.174
+Marketing Specialist,Finance,Florida,HSA,160.87,128.696,32.174
+Marketing Specialist,HR,Washington,HMO,290.66,232.528,58.132
+Marketing Specialist,Finance,Texas,PPO,443.24,354.592,88.648
+Marketing Specialist,Sales,Washington,HMO,290.66,232.528,58.132
+Sales Executive,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Marketing,Texas,HMO,290.66,232.528,58.132
+Finance Analyst,HR,Texas,HSA,160.87,128.696,32.174
+HR Manager,Marketing,California,HMO,303.61,242.888,60.722
+Sales Executive,Finance,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,California,HMO,303.61,242.888,60.722
+HR Manager,Sales,Florida,HMO,290.66,232.528,58.132
+Finance Analyst,HR,Texas,HMO,290.66,232.528,58.132
+Sales Executive,Marketing,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,Florida,HMO,290.66,232.528,58.132
+HR Manager,HR,Washington,HMO,290.66,232.528,58.132
+HR Manager,Finance,Texas,HSA,160.87,128.696,32.174
+HR Manager,Marketing,Texas,HSA,160.87,128.696,32.174
+Marketing Specialist,Sales,Washington,HMO,290.66,232.528,58.132
+Sales Executive,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Finance,California,HMO,303.61,242.888,60.722
+HR Manager,Finance,New York,HSA,239.14,191.312,47.828
+Finance Analyst,HR,New York,PPO,580.11,464.088,116.022
+HR Manager,Finance,Washington,HSA,160.87,128.696,32.174
+Marketing Specialist,Sales,Washington,PPO,443.24,354.592,88.648
+Marketing Specialist,Finance,California,PPO,595.81,476.648,119.162
+HR Manager,Finance,California,HSA,243.49,194.792,48.698
+HR Manager,Finance,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,Texas,HSA,160.87,128.696,32.174
+Finance Analyst,Sales,Texas,PPO,443.24,354.592,88.648
+HR Manager,Marketing,Texas,PPO,443.24,354.592,88.648
+Marketing Specialist,Finance,Washington,PPO,443.24,354.592,88.648
+Finance Analyst,HR,Texas,PPO,443.24,354.592,88.648
+Sales Executive,Marketing,Florida,HMO,290.66,232.528,58.132
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Finance,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Finance Analyst,HR,California,HSA,243.49,194.792,48.698
+HR Manager,Marketing,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,Marketing,Washington,HSA,160.87,128.696,32.174
+HR Manager,Sales,California,PPO,595.81,476.648,119.162
+HR Manager,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Finance,Texas,HMO,290.66,232.528,58.132
+Sales Executive,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Finance,California,HMO,303.61,242.888,60.722
+Sales Executive,Sales,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,Sales,California,PPO,595.81,476.648,119.162
+HR Manager,Finance,Florida,PPO,443.24,354.592,88.648
+Sales Executive,Marketing,California,HMO,303.61,242.888,60.722
+Sales Executive,Sales,Texas,PPO,443.24,354.592,88.648
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,California,HMO,303.61,242.888,60.722
+Marketing Specialist,Marketing,California,HMO,303.61,242.888,60.722
+Sales Executive,HR,California,PPO,595.81,476.648,119.162
+Sales Executive,Sales,California,HMO,303.61,242.888,60.722
+Finance Analyst,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Sales,Washington,PPO,443.24,354.592,88.648
+HR Manager,Sales,California,HMO,303.61,242.888,60.722
+Sales Executive,Marketing,California,HMO,303.61,242.888,60.722
+HR Manager,HR,Texas,PPO,443.24,354.592,88.648
+HR Manager,HR,Washington,HSA,160.87,128.696,32.174
+Sales Executive,Finance,Texas,HSA,160.87,128.696,32.174
+HR Manager,Marketing,Texas,PPO,443.24,354.592,88.648
+Marketing Specialist,Finance,California,HMO,303.61,242.888,60.722
+HR Manager,Sales,California,HSA,243.49,194.792,48.698
+HR Manager,HR,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,Florida,HSA,160.87,128.696,32.174
+Finance Analyst,Marketing,Washington,PPO,443.24,354.592,88.648
+Finance Analyst,Sales,Washington,HMO,290.66,232.528,58.132
+Sales Executive,Finance,Washington,HSA,160.87,128.696,32.174
+Marketing Specialist,HR,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,HR,Texas,HSA,160.87,128.696,32.174
+Marketing Specialist,HR,California,PPO,595.81,476.648,119.162
+HR Manager,HR,New York,HMO,311.05,248.84,62.21
+Marketing Specialist,Marketing,Florida,HMO,290.66,232.528,58.132
+HR Manager,HR,Florida,HMO,290.66,232.528,58.132
+Sales Executive,Marketing,California,HSA,243.49,194.792,48.698
+Finance Analyst,Marketing,Texas,HSA,160.87,128.696,32.174
+Finance Analyst,Marketing,Texas,HMO,290.66,232.528,58.132
+Marketing Specialist,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Sales,California,HSA,243.49,194.792,48.698
+HR Manager,Sales,Washington,HSA,160.87,128.696,32.174
+Marketing Specialist,Marketing,California,PPO,595.81,476.648,119.162
+Sales Executive,HR,Texas,HMO,290.66,232.528,58.132
+Finance Analyst,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Finance Analyst,HR,Florida,PPO,443.24,354.592,88.648
+HR Manager,HR,California,HMO,303.61,242.888,60.722
+Finance Analyst,Finance,New York,HSA,239.14,191.312,47.828
+HR Manager,HR,Texas,PPO,443.24,354.592,88.648
+HR Manager,Sales,California,HSA,243.49,194.792,48.698
+HR Manager,Finance,Washington,HSA,160.87,128.696,32.174
+Sales Executive,Finance,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,HR,Washington,HSA,160.87,128.696,32.174
+Marketing Specialist,Finance,New York,HSA,239.14,191.312,47.828
+HR Manager,HR,Florida,HSA,160.87,128.696,32.174
+Sales Executive,Finance,Washington,HSA,160.87,128.696,32.174
+Marketing Specialist,HR,California,HMO,303.61,242.888,60.722
+Finance Analyst,Finance,New York,PPO,580.11,464.088,116.022
+Sales Executive,Finance,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Marketing,California,PPO,595.81,476.648,119.162
+Sales Executive,HR,California,HSA,243.49,194.792,48.698
+Sales Executive,HR,New York,PPO,580.11,464.088,116.022
+Finance Analyst,HR,California,PPO,595.81,476.648,119.162
+Finance Analyst,Marketing,California,HMO,303.61,242.888,60.722
+Marketing Specialist,Marketing,California,PPO,595.81,476.648,119.162
+Sales Executive,Marketing,California,HMO,303.61,242.888,60.722
+Marketing Specialist,HR,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,Florida,HMO,290.66,232.528,58.132
+HR Manager,HR,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,California,PPO,595.81,476.648,119.162
+HR Manager,Finance,Florida,HSA,160.87,128.696,32.174
+HR Manager,HR,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Marketing,Texas,HSA,160.87,128.696,32.174
+Sales Executive,Finance,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,California,PPO,595.81,476.648,119.162
+Marketing Specialist,Sales,California,HSA,243.49,194.792,48.698
+HR Manager,Finance,Washington,HSA,160.87,128.696,32.174
+HR Manager,Marketing,New York,HMO,311.05,248.84,62.21
+Sales Executive,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Marketing,California,PPO,595.81,476.648,119.162
+Finance Analyst,Sales,California,HSA,243.49,194.792,48.698
+Sales Executive,Marketing,Florida,HSA,160.87,128.696,32.174
+Sales Executive,Finance,California,PPO,595.81,476.648,119.162
+Sales Executive,Marketing,New York,HSA,239.14,191.312,47.828
+Sales Executive,HR,Texas,HMO,290.66,232.528,58.132
+Marketing Specialist,Finance,New York,PPO,580.11,464.088,116.022
+Sales Executive,Finance,California,HMO,303.61,242.888,60.722
+HR Manager,Sales,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Marketing,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,HR,Texas,HMO,290.66,232.528,58.132
+Finance Analyst,Finance,Florida,HMO,290.66,232.528,58.132
+HR Manager,Finance,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,Sales,California,PPO,595.81,476.648,119.162
+Sales Executive,Marketing,Florida,PPO,443.24,354.592,88.648
+Finance Analyst,Marketing,Texas,HMO,290.66,232.528,58.132
+Marketing Specialist,HR,Florida,PPO,443.24,354.592,88.648
+Marketing Specialist,Sales,California,PPO,595.81,476.648,119.162
+Sales Executive,Finance,California,HSA,243.49,194.792,48.698
+Finance Analyst,HR,California,PPO,595.81,476.648,119.162
+Finance Analyst,Marketing,Washington,HSA,160.87,128.696,32.174
+Sales Executive,HR,Washington,HSA,160.87,128.696,32.174
+Sales Executive,Finance,California,HSA,243.49,194.792,48.698
+Sales Executive,Sales,California,HSA,243.49,194.792,48.698
+Sales Executive,HR,California,HSA,243.49,194.792,48.698
+Finance Analyst,Marketing,Washington,PPO,443.24,354.592,88.648
+HR Manager,Marketing,Washington,PPO,443.24,354.592,88.648
+Sales Executive,Sales,California,HSA,243.49,194.792,48.698
+Finance Analyst,HR,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Sales,Texas,PPO,443.24,354.592,88.648
+HR Manager,Finance,New York,HMO,311.05,248.84,62.21
+HR Manager,HR,Florida,HMO,290.66,232.528,58.132
+Finance Analyst,Marketing,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,Texas,HSA,160.87,128.696,32.174
+Marketing Specialist,Sales,Texas,HSA,160.87,128.696,32.174
+Marketing Specialist,Sales,California,HSA,243.49,194.792,48.698
+Finance Analyst,Marketing,California,PPO,595.81,476.648,119.162
+Marketing Specialist,HR,California,PPO,595.81,476.648,119.162
+HR Manager,HR,New York,HSA,239.14,191.312,47.828
+HR Manager,Finance,California,PPO,595.81,476.648,119.162
+Sales Executive,HR,Texas,HSA,160.87,128.696,32.174
+Marketing Specialist,Sales,Florida,PPO,443.24,354.592,88.648
+HR Manager,Marketing,California,HSA,243.49,194.792,48.698
+Marketing Specialist,HR,New York,PPO,580.11,464.088,116.022
+HR Manager,Sales,California,PPO,595.81,476.648,119.162
+Finance Analyst,HR,Texas,PPO,443.24,354.592,88.648
+Finance Analyst,Finance,Texas,HSA,160.87,128.696,32.174
+Sales Executive,Sales,Florida,PPO,443.24,354.592,88.648
+Sales Executive,Sales,Washington,HMO,290.66,232.528,58.132
+Sales Executive,Sales,Washington,HMO,290.66,232.528,58.132
+Finance Analyst,Finance,California,HSA,243.49,194.792,48.698
+Marketing Specialist,Finance,Texas,PPO,443.24,354.592,88.648
+Sales Executive,HR,New York,PPO,580.11,464.088,116.022
