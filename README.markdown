@@ -13,7 +13,6 @@ This repository contains a Power BI dashboard, a Plotly Dash web application, an
     - `benefits_dashboard.py`: Main Dash app script.
     - `data_employee.csv`: Dataset with employee attributes (job title, department, state, medical plan, costs).
     - `requirements.txt`: Python dependencies.
-    - `cost_analysis_report.tex`: LaTeX source for the cost analysis report.
   - `powebi_dash/`: Contains Power BI files (e.g., `.pbix` file for the dashboard).
 
 ## Running the Plotly Dash App Locally
@@ -82,21 +81,12 @@ The Power BI dashboard is in the `powebi_dash` folder, with its UI showcased in 
 2. Ensure the dataset (`data_employee.csv`) is accessible if needed for refresh.
 
 ## Cost Analysis Report
-- **Report_Cost_Optimization.pdf**: Contains the full analysis and recommendations (e.g., $214,965 annual savings by promoting HSA/HMO plans).
-- **cost_analysis_report.tex**: LaTeX source in `Dash_webapp/`. To compile locally:
-  1. Install a LaTeX distribution (e.g., TeX Live).
-  2. Run:
-     ```bash
-     cd Dash_webapp
-     latexmk -pdf cost_analysis_report.tex
-     ```
-  3. The PDF will be generated in `Dash_webapp/`.
+- **Report_Cost_Optimization.pdf**: Contains the full analysis and recommendations.
+
 
 ## Dash App UI
 - **dashapp.pdf**: Displays the UI of the Plotly Dash app, including cards, filters, charts, and the savings calculator.
 
-## Deployment
-The repository includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) to deploy the Dash app and report to PythonAnywhere. See the PythonAnywhere documentation or `Dash_webapp/cost_analysis_report.tex` deployment instructions for details.
 
 ## Contact
 For questions or issues, please open a GitHub issue or contact [jayantbiradar619@gmail.com].
