@@ -99,4 +99,4 @@ The Power BI dashboard is in the `powebi_dash` folder, with its UI showcased in 
 The repository includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) to deploy the Dash app and report to PythonAnywhere. See the PythonAnywhere documentation or `Dash_webapp/cost_analysis_report.tex` deployment instructions for details.
 
 ## Contact
-For questions or issues, please open a GitHub issue or contact [your-email@example.com].
+For questions or issues, please open a GitHub issue or contact [jayantbiradar619@gmail.com].
