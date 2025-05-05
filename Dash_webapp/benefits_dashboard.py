@@ -4,14 +4,13 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
-import os
+from uuid import uuid4
 
-# Load data
-df = pd.read_csv('data_employee.csv')
+# Load data (assumed to be in CSV format for simplicity)
+df = pd.read_csv('data.csv')
 
 # Initialize Dash app
 app = dash.Dash(__name__, external_stylesheets=['https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap'])
-server = app.server  # Expose Flask server for Gunicorn
 
 # Layout
 app.layout = html.Div([
@@ -243,7 +242,6 @@ def update_dashboard(selected_state, selected_department, ppo_switch):
     )
     fig6.update_layout(
         legend=dict(x=0.8, y=1.1, orientation='h'),
-        facet_col_spacing=0.05,
         font_family='Roboto',
         plot_bgcolor='#ffffff',
         paper_bgcolor='#ffffff',
@@ -328,5 +326,4 @@ def update_dashboard(selected_state, selected_department, ppo_switch):
 
 # Run the app
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 8050))
-    app.run_server(host="0.0.0.0", port=port, debug=False)
+    app.run(debug=True)
